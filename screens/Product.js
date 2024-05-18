@@ -69,7 +69,7 @@ const Product = ({route:{params}}) => {
         </View>
         <TouchableOpacity
           activeOpacity={0.8}
-          onPress={() => ToastAndroid.show("Add to cart", ToastAndroid.SHORT)}
+          onPress={() => ToastAndroid.show("Added to cart", ToastAndroid.SHORT)}
           style={Style.productPageAddtoCartView}
         >
           <Text

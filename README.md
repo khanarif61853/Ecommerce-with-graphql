@@ -5,7 +5,7 @@ Welcome to our project! This is a Ecommerce-with-graphQl App made by react-nativ
 
 # Installation
 1.We have to create react-native-expo app with this command (npx create-expo-app --template) then
-you will get some option.You can go with blank option After that write your projectName then your app will be create after that you have to run to your project from this command (npx expo start) And we have to install npm of graphQl and apollo/client.
+you will get some option.You can go with blank option After that write your projectName then your app will be create after that you have to run to your project from this command (npx expo start) and we have to install npm of graphQl and apollo/client.
 
 
 # graphQl
